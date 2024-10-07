@@ -1,0 +1,201 @@
+/* Main Page Settings */
+#main-page{
+	background-image: url(https://atri-mdm.com/assets/img/story/img05.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-family: raleway;
+}
+#main-txt-1{
+	margin: 20px 40px 0px;
+}
+#atri-main-page{
+	position: absolute;
+	z-index: -1;
+}
+#main-logo-div{
+	width: 350px;
+	float: right;
+	height: 400px;
+	padding-right: 180px;
+}
+#atri-main-logo{
+	margin-top: 100px;
+}
+#atri-main-sch{
+	margin-top: 20px;
+}
+.container{
+	height: 50px;
+	margin-top: 426px;
+}
+#navbar-main{
+	float: left;
+	margin-top: 5px;
+	margin-left: 30px;
+}
+#purchase-main{
+	float: right;
+	margin-top: 5px;
+	margin-right: 20px;
+}
+.container a{
+	text-decoration: none;
+	color: black;
+	padding: 0px 15px 0px;
+}
+.container a:hover{
+	color: skyblue;
+	transition: 0.3s;
+}
+#main-op-dis{
+	text-align: center;
+	font-size: 2em;
+}
+/* Story Page Settings */
+#story-page{
+	font-family: raleway;
+}
+.container-1{
+	height: 50px;
+	padding: 10px 20px 10px;
+}
+.navbar-1{
+	float: right;
+	padding-top: 20px;
+}
+.navbar-1 a,#tks-page a{
+	text-decoration: none;
+	color: black;
+	padding: 0px 15px 0px;
+}
+.navbar-1 a:hover, #tks-page a:hover{
+	color: skyblue;
+	transition: 0.3s;
+}
+
+#img-1{
+	height: 450px;
+	right: 0;
+	z-index: -1;
+	position: absolute;
+}
+#txt-1{
+	width: 600px;
+	height: 450px;
+	padding: 50px 80px 0px;
+}
+#txt-1 p{
+	font-size: 2em;
+	color: grey;
+	margin-left: 100px;
+	text-shadow: 1px 1px 1px skyblue;
+}
+#txt-1a{
+	color: grey;
+	width: 600px;
+	font-size: 1.2em;
+	margin: -50px 500px 0px;
+}
+#box-2b{
+	margin: 100px 30px 0px;
+	height: 400px;
+	right: 0;
+	position: absolute;
+}
+#box-2a{
+	width: 500px;
+	height: 450px;
+	padding: 50px 50px 0px;
+}
+#box-2a p{
+	padding: 80px 30px 0px;
+	font-size: 1.4em;
+	color: grey;
+}
+#box-3a{
+	font-size: 1.1em;
+	color: grey;
+	width: 500px;
+	margin: 180px 0px 0px;
+	padding: 0px 50px 0px;
+}
+#box-3a p{
+	padding: 0px 40px 0px;
+}
+#box-3b{
+	right: 0;
+	position: absolute;
+	margin: -140px 250px 0px;
+}
+#box-4{
+	width: 700px;
+	margin: 100px 380px 0px;
+}
+#s-back{
+	left: 0;
+	position: absolute;
+}
+/* Character Page */
+#character-page{
+	font-family: raleway;	
+}
+#chara-b{
+	position: fixed;
+	z-index: -1;
+	opacity: 0.2;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+.chara-box{
+	height: 1200px;
+}
+.chara-img{
+	margin-left: 10px;
+	width: 400px;
+	float: left;
+}
+.chara-txt{
+	margin-right: 200px;
+	width: 30%;
+	float: right;
+}
+.chara-jp-name{
+	padding: 0px 0px 30px;
+	border-bottom: 1px solid black;
+}
+.chara-desc	{
+	font-size: 1.2em;
+}
+/* form page and thanks page */
+#form-page{
+	font-family: raleway;
+}
+form{
+	padding-left: 435px;
+	font-size: 1.3em;
+}
+#form-page h1{
+	text-align: center;
+}
+#back-form{
+	z-index: -1;
+	position: fixed;
+	float: left;
+	width: 100%;
+	left: 0;
+	top: 0;
+	opacity: 0.3;
+}
+#tks-back{
+	z-index: -1;
+	position: fixed;
+	float: left;
+	width: 100%;
+	left: 0;
+	top: 0;
+	opacity: 0.3;
+}
+#tks-page{
+	font-family: raleway;
+}
